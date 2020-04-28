@@ -1,0 +1,6 @@
+C:\Workspace\QA\Dev\Utilities\ProcTerminator\ProcTerminator\bin\Debug\ProcTerminator.exe.config
+C:\Workspace\QA\Dev\Utilities\ProcTerminator\ProcTerminator\bin\Debug\ProcTerminator.exe
+C:\Workspace\QA\Dev\Utilities\ProcTerminator\ProcTerminator\bin\Debug\ProcTerminator.pdb
+C:\Workspace\QA\Dev\Utilities\ProcTerminator\ProcTerminator\obj\Debug\ProcTerminator.exe
+C:\Workspace\QA\Dev\Utilities\ProcTerminator\ProcTerminator\obj\Debug\ProcTerminator.pdb
+C:\Workspace\QA\Dev\Utilities\ProcTerminator\ProcTerminator\obj\Debug\ProcTerminator.csprojResolveAssemblyReference.cache
